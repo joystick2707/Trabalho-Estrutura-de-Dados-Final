@@ -1,3 +1,4 @@
+// Classe que representa um nó de uma estrutura encadeada (como pilha ou fila)
 public class Node {
     Pixel valor;
     Node proximo;
