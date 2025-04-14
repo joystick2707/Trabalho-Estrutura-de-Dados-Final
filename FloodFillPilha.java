@@ -1,6 +1,7 @@
 import javax.swing.*;
 import java.awt.image.BufferedImage;
 
+// Classe que implementa o algoritmo Flood Fill usando uma pilha
 public class FloodFillPilha {
 
     // Método estático que aplica o flood fill a partir da posição (x, y)
