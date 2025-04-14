@@ -2,6 +2,7 @@ import java.awt.image.BufferedImage;
 import javax.swing.JLabel;
 import javax.swing.SwingUtilities;
 
+// Classe que implementa o algoritmo Flood Fill utilizando uma fila (varredura por largura)
 public class FloodFillFila {
 
     public static void floodFill(BufferedImage image, int x, int y, int novaCor, JLabel imageLabel) {
