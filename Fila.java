@@ -1,3 +1,4 @@
+// Classe que representa uma fila de objetos do tipo Pixel
 class Fila {
     private Node inicio = null;
     private Node fim = null;
